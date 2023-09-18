@@ -67,7 +67,7 @@ $(function () {
       align: 'center',
       escape: "true"
     }, {
-      title: 'Effects (Group/Username)',
+      title: 'Affects (Group/Username)',
       field: 'effects',
       align: 'center',
       sortable: true,
